@@ -6,5 +6,6 @@ public class Main {
         list.add(32);
         int number = list.get(0);
 
+        new GenericList<Short>();
     }
 }
